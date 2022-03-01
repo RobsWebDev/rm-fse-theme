@@ -13,3 +13,10 @@ Text Domain: rmfsetheme
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+/** Start Robs Custom CSS */
+.fse-header {
+  color: blue;
+  background-color: yellow;
+  margin: 0;
+}
